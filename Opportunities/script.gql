@@ -32,3 +32,16 @@ query GetOpenOpportunities {
     }
   }
 }
+/*
+
+Result:
+
+{
+  "data": {
+    "allOpportunity": {
+      "data": []
+    }
+  }
+}
+
+*/
